@@ -31,7 +31,10 @@
 					</div>
 					<div class="b-3"><!-- [Bloc serveur 3] -->
 						
-					</div>	
+					</div>
+					<div class="bt-forum"><!-- [bouton forum] -->
+						
+					</div>		
 				</section>
 			<footer class"footer"><!-- [Footer global] -->
 					<div class="footer_info"><!-- [Footer avec info defilante] -->
