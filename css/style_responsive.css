@@ -1,0 +1,56 @@
+@media screen and (max-width: 1200px) {
+.contenu_page {
+}
+
+.image-haut {
+	margin: 0 auto;
+}
+
+.serveur_liste {
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.logo_serveur-1 {
+    width: 565px;
+	height: 250px;
+	margin-right: 65px;
+	-webkit-box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+	cursor: pointer;
+}
+
+.logo_serveur-2 {
+    width: 565px;
+	height: 250px;
+	-webkit-box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+	cursor: pointer;
+	}
+
+.logo_serveur-3 {
+    width: 565px;
+	height: 250px;
+	-webkit-box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 8px 7px 5px 0px rgba(0,0,0,0.75);
+    cursor: pointer;
+    display: block;
+    margin: 20px auto 0;
+}
+
+.footer_info {
+	color: red;
+	text-align: center;
+	font-family: 'Trebuchet MS';
+}
+.copyright {
+	font-family: 'Trebuchet MS';
+	text-align: center;
+	color: white;
+}
+
+}
